@@ -13,7 +13,7 @@ So what's the goal here? The goal is to let you know, the student or even your p
 
 2. Press `E` to interact with other characters
 
-3. Press Space to go through dialogues when talking with other characters
+3. Press `Spacebar` to go through dialogues when talking with other characters
 
 4. Either use the `Arrow Up`, `Arrow Down` or Your mouse with `Left Click` to navigate through the in-game dialogues.
 
