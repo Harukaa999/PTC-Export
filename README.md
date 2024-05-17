@@ -1,7 +1,7 @@
 # Path-to-Crusaders
 ## About the Game
 The concept of the game itself is to introduce new students who will come to Sacred Heart of Jesus Catholic School to the school itself and it's staff. 
-So what's the goal here? The goal is to let you know, the student or even your parents what the school looks like, what the school offers, and what are the rules are inside the school ground.
+So what's the goal here? The goal is to let you know, the student or even your parents what the school looks like, what the school offers, and what the rules are inside the school ground.
 ## How to install
 1. Download "Research Game Version 1.04.exe" and "Research Game Version 1.04.pck"
 
